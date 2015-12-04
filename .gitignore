@@ -1,0 +1,11 @@
+*/archive/
+
+__MACOSX
+.DS_Store
+*.pyc
+
+# OS generated files #
+######################
+*/.DS_Store
+.DS_Store
+.DS_Store?
