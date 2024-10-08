@@ -5,7 +5,8 @@ billiard==3.3.0.21
 bottle==0.12.8
 bottle-session==0.5
 celery==3.1.19
-Django==1.7.1
+# Django==1.7.1
+Django
 Flask==0.10.1
 gunicorn==19.3.0
 httplib2==0.9.2
